@@ -1,0 +1,104 @@
+html, body, h1, p {
+  margin: 0;
+  border: 0;
+  padding: 0;
+  font: inherit;
+  text-align: inherit;
+  color: inherit;
+  background: inherit;
+  box-sizing: inherit;
+  justify-content: center;
+}
+
+body {
+  font-family: fantasy;
+  line-height: 1.2;
+  background-color: black;
+}
+
+h1 {
+  font-size: 28px;
+  font-weight: 700;
+  text-align: center;
+  padding-top: 10vh;
+  color: lightcoral;
+}
+
+
+/* Clock */
+
+.clock {
+  font-size: 28px;
+  font-family: monospace;
+  width: 60vh;
+  height: 10vh;
+  border: 3px solid greenyellow;
+  padding: 10px;
+  background-color: black;
+  color: lightcoral;
+  background-size: cover;
+  margin: auto;
+  ;
+}
+
+.clock p {
+  margin: 12px;
+  display: flex;
+  justify-content: center;
+}
+
+
+/* Calculator */
+
+.calc {
+  width: 25vh;
+  height: 15vh;
+  border: 3px solid greenyellow;
+  background-color: black;
+  background-size: cover;
+  padding: 10px;
+  justify-content: space-between;
+  background-size: cover;
+  margin: auto;
+  font-family: monospace;
+}
+
+/* .calc h2 {
+  font-family: monospace;
+  font-size: x-large;
+  display: flex;
+  color: lightcoral;
+} */
+
+.calc h1 {
+  font-weight: 400;
+  color: lightcoral;
+  text-align: center;
+  padding: 5px;
+}
+
+.calc button {
+  background-color: lightcoral;
+}
+
+.calc input {
+  background-color: greenyellow;
+  height: 20px;
+  width: 65px;
+}
+
+
+/* Weather */
+
+.weather {
+  font-size: 28px;
+  font-family: monospace;
+  width: 25vh;
+  height: 10vh;
+  border: 3px solid greenyellow;
+  padding: 10px;
+  text-align: center;
+  margin: auto;
+  background-color: black;
+  color: lightcoral;
+}
