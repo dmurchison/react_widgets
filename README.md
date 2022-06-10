@@ -1,5 +1,7 @@
 # React Widgets #
 
+<img width="746" alt="Screen Shot 2022-06-10 at 11 13 56 AM" src="https://user-images.githubusercontent.com/80483775/173096831-e3e0c91d-f8ab-407e-968c-9e8a74871506.png">
+
 This is a simple collection of widgets built with simple React components.
 This repo is displayed for the code, not a finished project. It is more of a
 boilerplate code for anyone who would like to start messing with React
